@@ -4,9 +4,18 @@
 
 My first JavaScript project for my <a href="https://hexly.ru/">college</a> in witch I set up an environment and create simple text-based games in console, all by myself.
 
+## How to setup:
+
+Actually just believe me u dont need it 
+but if u rly want:
+
+```bash
+make install
+```
+
 ## How to start games:
 
-### Brain-even
+### Game: "Parity Check"
 
 Answer "yes" if the number is even, otherwise answer "no".
 
@@ -18,7 +27,7 @@ brain-even
 
 [![asciicast](https://asciinema.org/a/xURdYwI9zjbEaQmrfI0LmFVJk.svg)](https://asciinema.org/a/xURdYwI9zjbEaQmrfI0LmFVJk)
 
-### Brain-calc
+### Game: "Calculator"
 
 You need to calculate an expression and enter the result
 
@@ -28,3 +37,36 @@ brain-calc
 ```
 
 [![asciicast](https://asciinema.org/a/u59m9xehrNvKZHznWXcn5hczk.svg)](https://asciinema.org/a/u59m9xehrNvKZHznWXcn5hczk)
+
+### Game: "GCD"
+
+You need to find the greatest common divisor of given numbers.
+
+To run the game:
+```bash
+brain-gcd
+```
+
+[![asciicast](https://asciinema.org/a/unoY4cAfrs4Uwfo1DlrGpAVH3.svg)](https://asciinema.org/a/unoY4cAfrs4Uwfo1DlrGpAVH3)
+
+### The game "Arithmetic progression"
+
+You need to find the missing number in the progression.
+
+To run the game:
+```bash
+brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/0JIBpaWue6HvemXM88gPzewzp.svg)](https://asciinema.org/a/0JIBpaWue6HvemXM88gPzewzp)
+
+### The game "Is a prime number?"
+
+Answer "yes" if the number is prime, otherwise answer "no".
+
+To run the game:
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/A8ob1Yr1bhKJImkzMdXBCFYrM.svg)](https://asciinema.org/a/A8ob1Yr1bhKJImkzMdXBCFYrM)

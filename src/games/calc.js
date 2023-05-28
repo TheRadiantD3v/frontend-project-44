@@ -6,7 +6,7 @@ const description = 'What is the result of the expression?';
 const getRandOperator = () => {
   const operators = ['+', '-', '*'];
   const randOperatorIndex = getRandomNumber(0, operators.length - 1);
-  return operators[randOperatorIndex]
+  return operators[randOperatorIndex];
 };
 
 const calculate = (operator, operand1, operand2) => {
