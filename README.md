@@ -11,7 +11,20 @@ My first JavaScript project for my <a href="https://hexly.ru/">college</a> in wi
 Answer "yes" if the number is even, otherwise answer "no".
 
 To run the game:
+
 ```bash
 brain-even
 ```
+
 [![asciicast](https://asciinema.org/a/xURdYwI9zjbEaQmrfI0LmFVJk.svg)](https://asciinema.org/a/xURdYwI9zjbEaQmrfI0LmFVJk)
+
+### Brain-calc
+
+You need to calculate an expression and enter the result
+
+To run the game:
+```bash
+brain-calc
+```
+
+[![asciicast](https://asciinema.org/a/u59m9xehrNvKZHznWXcn5hczk.svg)](https://asciinema.org/a/u59m9xehrNvKZHznWXcn5hczk)
